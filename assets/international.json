@@ -1,0 +1,11 @@
+{
+  "tagNameIndex": 0,
+  "defaultLanguage": "en",
+  "textIndexMap": {
+    "zh": 1,
+    "en": 2,
+    "ja": 3
+  },
+  "matchRegex": "",
+  "useDefault": false
+}
