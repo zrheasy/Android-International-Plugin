@@ -3,7 +3,7 @@ Android项目国际化适配插件，可以将本地化组提供的excel翻译�
 
 ## 使用步骤
 ### 1. 下载并安装插件。
-[插件下载地址](https://github.com/zrh1994/Android-International-Plugin/releases/download/v1.0.0/AIP-1.0-SNAPSHOT.zip)
+[插件下载地址](https://github.com/zrheasy/Android-International-Plugin/releases/download/v1.0.0/AIP-1.0-SNAPSHOT.zip)
 ![安装插件](assets/安装插件.png)
 
 ### 2. 在当前项目的根目录下新建配置文件international.json。
