@@ -1,6 +1,6 @@
 plugins {
     id("java")
-    id("org.jetbrains.intellij") version "1.6.0"
+    id("org.jetbrains.intellij") version "1.10.0"
 }
 
 group = "com.zrh.international"
@@ -38,7 +38,7 @@ tasks {
 
     patchPluginXml {
         sinceBuild.set("203")
-        untilBuild.set("223.*")
+        untilBuild.set("AI-233.*")
     }
 
     signPlugin {
